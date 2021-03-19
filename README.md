@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Everson de Souza Silva (he/him)</h1>
-<h3 align="center">A passionate Full-stack Developer from Brazil 🇧🇷 </h3>
+<h3 align="center">A passionate Full-stack Developer from Brazil</h3>
 
 **Talking about some personal stuff:**
   
