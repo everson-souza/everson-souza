@@ -8,20 +8,31 @@
 - 🔭 I'm currently working at Lakes Environmental
  
 - 🌱 I already worked with:
+  	- Front-end
+    	- HTML/CSS
+		- Bootstrap
+		- Vue.js
+		- AngularJs
+		- Javascript
   	
-    - HTML/CSS
-  	- Bootstrap
-  	- Vue.js
-  	- AngularJs
-  	- Javascript
-  	- Java
-  	- PHP
-  	- C#
-  	- Python
-  	- PostgreSQL
-  	- Selenium C#
+	- Back-end
+		- Java
+		- C#
+		- Node.js
+		- PHP
+		- Python
 
-- 💬 Ask me about anything, I'm happy to help
+	- Database
+		- MySQL
+		- PostgreSQL
+		- PL/pgSQL
+	
+	- QA
+		- Selenium C#
+		- Cypress
+
+- 📚 Languages: *Portuguese (native)* / *English (advanced)* / *French (basic)*
+- 💬 Ask me about anything, I'm happy to help!
 - ⚡ Fun fact: I was born and raised in a very small town in the countryside of Brazil
 
 **Things I wanna do this year:**
