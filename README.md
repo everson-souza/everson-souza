@@ -1,50 +1,102 @@
-<h1 align="center">Hi there 👋 I'm Everson de Souza Silva (he/him)</h1>
-<h3 align="center">A passionate Software Developer from Brazil</h3>
+# Hi there 👋 I'm Everson de Souza Silva (he/him)
 
-**Talking about some personal stuff:**
-  
-- 🎓 I'm a Computer engineer graduated from UTFPR 
-  
-- 🔭 I'm currently working at Lakes Environmental
- 
-- 🌱 I already worked with:
-  	- Front-end
-    	- HTML/CSS
-		- Bootstrap
-		- Vue.js
-		- AngularJs
-		- Javascript
-  	
-	- Back-end
-		- Java
-		- C#
-		- Node.js
-		- PHP
-		- Python
+### Senior Full-Stack Software Engineer | AI & Backend Systems | Product Engineering
 
-	- Database
-		- MySQL
-		- PostgreSQL
-		- PL/pgSQL
-	
-	- QA
-		- Selenium C#
-		- Cypress
+I'm a Brazilian Software Engineer currently based in Germany, with 10+ years of experience building software products, integrations, and scalable applications.
 
-- 📚 Languages: *Portuguese (native)* / *English (advanced)* / *French (basic)*
-- 💬 Ask me about anything, I'm happy to help!
-- ⚡ Fun fact: I was born and raised in a very small town in the countryside of Brazil
+I enjoy working across the entire software development lifecycle, from designing architectures and building backend services to developing user-facing applications and bringing new products from idea to production.
 
-**Things I wanna do this year:**
-- [x] Graduate from college
-- [x] Finish my personal project called MAR<sup>2</sup>S: Sign Representative Robotic Hand to Aid Brazilian Sign Language (LIBRAS) Learning
-- [x] Learn React and create a new project
-- [ ] Learn AWS
+### 🚀 What I'm currently working on
 
-**Languages and Tools:**
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+- Building AI-powered applications and agentic workflows using LLMs, tool calling, and agent-to-agent communication.
+- Developing full-stack applications with React, Python, and FastAPI.
+- Designing backend architectures, APIs, data pipelines, and cloud infrastructure.
+- Integrating external data sources, scientific databases, and APIs into AI-driven workflows.
+- Working with Google Cloud Platform, containerized applications, and CI/CD pipelines.
 
-<p>By the way, I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</p>
+### 💻 Professional experience
 
-[![Linkedin Badge](https://img.shields.io/badge/-Everson%20de%20Souza-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/everson-de-souza-silva/)](https://linkedin.com/in/everson-de-souza-silva)
+**Mycolever — Senior Full-Stack Software Developer**
+- Building the software platform behind AI-assisted chemical and biological compound discovery.
+- Developing AI agents and integrations with scientific databases, publications, and patents.
+- Working across frontend, backend, data infrastructure, and cloud deployment.
 
+**qibb / Techtriq — Senior Full-Stack Developer**
+- Developed integrations and extensions for a low-code media and workflow orchestration platform.
+- Built 130+ integrations and worked on API connectivity and developer tooling.
+- Developed an AI Copilot from the ground up, integrating LLMs, vector stores, function calling, and streaming.
+- Contributed to architecture improvements, mentoring, and software development processes.
+
+### 🛠️ Technologies & Tools
+
+**Languages**
+- TypeScript / JavaScript
+- Python
+- Go
+- Java
+- C#
+
+**Frontend**
+- React
+- Angular
+- Vue.js
+- HTML / CSS
+
+**Backend & APIs**
+- Node.js
+- FastAPI
+- REST APIs
+- OpenAPI
+- Microservices
+- Agent-to-Agent (A2A) communication
+
+**AI & Data**
+- LLM integrations
+- OpenAI API
+- RAG architectures
+- Vector databases
+- Function / Tool Calling
+- DuckDB
+- PostgreSQL
+- MySQL
+
+**Cloud & DevOps**
+- Google Cloud Platform
+- Docker
+- GitHub Actions
+- CI/CD
+- Cloud Run
+- Firebase
+
+**Testing**
+- Jest
+- Cypress
+- Selenium
+
+### 🎓 Education
+
+**B.Sc. in Computer Engineering**  
+Federal University of Technology – Paraná (UTFPR), Brazil
+
+Final project: **MAR²S — Sign Representative Robotic Hand to Aid Brazilian Sign Language (LIBRAS) Learning.**
+
+Developed a robotic hand capable of representing Brazilian Sign Language signs generated from written input through a software application.
+
+### 🌍 Languages
+
+- 🇧🇷 Portuguese — Native
+- 🇬🇧 English — Advanced (C1)
+- 🇩🇪 German — Intermediate (working towards B2)
+
+### ⚡ A little about me
+
+- Born and raised in a small town in the countryside of Brazil.
+- Currently living in Germany.
+- Passionate about technology, AI, and building products that solve real-world problems.
+- Always interested in learning new technologies and exchanging ideas with other developers.
+
+### 🤝 Let's connect!
+
+I love connecting with people from different backgrounds, sharing knowledge, and discussing technology. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Everson%20de%20Souza-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/everson-de-souza-silva/)
